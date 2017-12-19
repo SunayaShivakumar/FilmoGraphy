@@ -1,0 +1,67 @@
+{
+  "Movies": [
+    {
+      "cast": [
+        [
+          "Christian Bale", 
+          "https://en.wikipedia.org/wiki/Christian_Bale", 
+          1
+        ], 
+        [
+          "Willem Dafoe", 
+          "https://en.wikipedia.org/wiki/Willem_Dafoe", 
+          2
+        ], 
+        [
+          "Jared Leto", 
+          "https://en.wikipedia.org/wiki/Jared_Leto", 
+          3
+        ], 
+        [
+          "Josh Lucas", 
+          "https://en.wikipedia.org/wiki/Josh_Lucas", 
+          4
+        ], 
+        [
+          "Samantha Mathis", 
+          "https://en.wikipedia.org/wiki/Samantha_Mathis", 
+          5
+        ], 
+        [
+          "Matt Ross", 
+          "https://en.wikipedia.org/wiki/Matt_Ross_(actor)", 
+          6
+        ], 
+        [
+          "Bill Sage", 
+          "https://en.wikipedia.org/wiki/Bill_Sage", 
+          7
+        ], 
+        [
+          "Chlo\u00eb Sevigny", 
+          "https://en.wikipedia.org/wiki/Chlo%C3%AB_Sevigny", 
+          8
+        ], 
+        [
+          "Cara Seymour", 
+          "https://en.wikipedia.org/wiki/Cara_Seymour", 
+          9
+        ], 
+        [
+          "Justin Theroux", 
+          "https://en.wikipedia.org/wiki/Justin_Theroux", 
+          10
+        ], 
+        [
+          "Reese Witherspoon", 
+          "https://en.wikipedia.org/wiki/Reese_Witherspoon", 
+          11
+        ]
+      ], 
+      "gross": 34300000, 
+      "link": "https://en.wikipedia.org/wiki/American_Psycho_(film)", 
+      "name": "American Psycho", 
+      "year": 2000
+    }
+  ]
+}

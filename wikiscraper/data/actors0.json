@@ -1,0 +1,451 @@
+{
+  "Actors": [
+    {
+      "age": 43, 
+      "link": "https://en.wikipedia.org/wiki/Christian_Bale", 
+      "movies": [
+        [
+          "Mio in the Land of Faraway", 
+          "https://en.wikipedia.org/wiki/Mio_in_the_Land_of_Faraway"
+        ], 
+        [
+          "Empire of the Sun", 
+          "https://en.wikipedia.org/wiki/Empire_of_the_Sun_(film)"
+        ], 
+        [
+          "Treasure Island", 
+          "https://en.wikipedia.org/wiki/Treasure_Island_(1990_film)"
+        ], 
+        [
+          "Newsies", 
+          "https://en.wikipedia.org/wiki/Newsies"
+        ], 
+        [
+          "Swing Kids", 
+          "https://en.wikipedia.org/wiki/Swing_Kids_(film)"
+        ], 
+        [
+          "Little Women", 
+          "https://en.wikipedia.org/wiki/Little_Women_(1994_film)"
+        ], 
+        [
+          "Pocahontas", 
+          "https://en.wikipedia.org/wiki/Pocahontas_(1995_film)"
+        ], 
+        [
+          "Metroland", 
+          "https://en.wikipedia.org/wiki/Metroland_(1997_film)"
+        ], 
+        [
+          "All the Little Animals", 
+          "https://en.wikipedia.org/wiki/All_the_Little_Animals"
+        ], 
+        [
+          "Velvet Goldmine", 
+          "https://en.wikipedia.org/wiki/Velvet_Goldmine"
+        ], 
+        [
+          "A Midsummer Night's Dream", 
+          "https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(1999_film)"
+        ], 
+        [
+          "American Psycho", 
+          "https://en.wikipedia.org/wiki/American_Psycho_(film)"
+        ], 
+        [
+          "Shaft", 
+          "https://en.wikipedia.org/wiki/Shaft_(2000_film)"
+        ], 
+        [
+          "Laurel Canyon", 
+          "https://en.wikipedia.org/wiki/Laurel_Canyon_(film)"
+        ], 
+        [
+          "Reign of Fire", 
+          "https://en.wikipedia.org/wiki/Reign_of_Fire_(film)"
+        ], 
+        [
+          "Equilibrium", 
+          "https://en.wikipedia.org/wiki/Equilibrium_(film)"
+        ], 
+        [
+          "The Machinist", 
+          "https://en.wikipedia.org/wiki/The_Machinist"
+        ], 
+        [
+          "Batman Begins", 
+          "https://en.wikipedia.org/wiki/Batman_Begins"
+        ], 
+        [
+          "Harsh Times", 
+          "https://en.wikipedia.org/wiki/Harsh_Times"
+        ], 
+        [
+          "The New World", 
+          "https://en.wikipedia.org/wiki/The_New_World_(2005_film)"
+        ], 
+        [
+          "The Prestige", 
+          "https://en.wikipedia.org/wiki/The_Prestige_(film)"
+        ], 
+        [
+          "Rescue Dawn", 
+          "https://en.wikipedia.org/wiki/Rescue_Dawn"
+        ], 
+        [
+          "3:10 to Yuma", 
+          "https://en.wikipedia.org/wiki/3:10_to_Yuma_(2007_film)"
+        ], 
+        [
+          "The Dark Knight", 
+          "https://en.wikipedia.org/wiki/The_Dark_Knight_(film)"
+        ], 
+        [
+          "Terminator Salvation", 
+          "https://en.wikipedia.org/wiki/Terminator_Salvation"
+        ], 
+        [
+          "Public Enemies", 
+          "https://en.wikipedia.org/wiki/Public_Enemies_(2009_film)"
+        ], 
+        [
+          "The Fighter", 
+          "https://en.wikipedia.org/wiki/The_Fighter"
+        ], 
+        [
+          "The Flowers of War", 
+          "https://en.wikipedia.org/wiki/The_Flowers_of_War"
+        ], 
+        [
+          "The Dark Knight Rises", 
+          "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises"
+        ], 
+        [
+          "Out of the Furnace", 
+          "https://en.wikipedia.org/wiki/Out_of_the_Furnace"
+        ], 
+        [
+          "American Hustle", 
+          "https://en.wikipedia.org/wiki/American_Hustle"
+        ], 
+        [
+          "Exodus: Gods and Kings", 
+          "https://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings"
+        ], 
+        [
+          "Knight of Cups", 
+          "https://en.wikipedia.org/wiki/Knight_of_Cups_(film)"
+        ], 
+        [
+          "The Big Short", 
+          "https://en.wikipedia.org/wiki/The_Big_Short_(film)"
+        ], 
+        [
+          "The Promise", 
+          "https://en.wikipedia.org/wiki/The_Promise_(2016_American_film)"
+        ], 
+        [
+          "Hostiles", 
+          "https://en.wikipedia.org/wiki/Hostiles_(film)"
+        ]
+      ], 
+      "name": "Christian Bale"
+    }, 
+    {
+      "age": 62, 
+      "link": "https://en.wikipedia.org/wiki/Willem_Dafoe", 
+      "movies": [], 
+      "name": "Willem Dafoe"
+    }, 
+    {
+      "age": 45, 
+      "link": "https://en.wikipedia.org/wiki/Jared_Leto", 
+      "movies": [
+        [
+          "How to Make an American Quilt", 
+          "https://en.wikipedia.org/wiki/How_to_Make_an_American_Quilt"
+        ], 
+        [
+          "The Last of the High Kings", 
+          "https://en.wikipedia.org/wiki/The_Last_of_the_High_Kings"
+        ], 
+        [
+          "Prefontaine", 
+          "https://en.wikipedia.org/wiki/Prefontaine_(film)"
+        ], 
+        [
+          "Switchback", 
+          "https://en.wikipedia.org/wiki/Switchback_(film)"
+        ], 
+        [
+          "Basil", 
+          "https://en.wikipedia.org/wiki/Basil_(film)"
+        ], 
+        [
+          "Urban Legend", 
+          "https://en.wikipedia.org/wiki/Urban_Legend_(film)"
+        ], 
+        [
+          "The Thin Red Line", 
+          "https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film)"
+        ], 
+        [
+          "Black and White", 
+          "https://en.wikipedia.org/wiki/Black_and_White_(1999_drama_film)"
+        ], 
+        [
+          "Fight Club", 
+          "https://en.wikipedia.org/wiki/Fight_Club"
+        ], 
+        [
+          "Girl, Interrupted", 
+          "https://en.wikipedia.org/wiki/Girl,_Interrupted_(film)"
+        ], 
+        [
+          "American Psycho", 
+          "https://en.wikipedia.org/wiki/American_Psycho_(film)"
+        ], 
+        [
+          "Requiem for a Dream", 
+          "https://en.wikipedia.org/wiki/Requiem_for_a_Dream"
+        ], 
+        [
+          "Sunset Strip", 
+          "https://en.wikipedia.org/wiki/Sunset_Strip_(film)"
+        ], 
+        [
+          "Highway", 
+          "https://en.wikipedia.org/wiki/Highway_(2002_film)"
+        ], 
+        [
+          "Panic Room", 
+          "https://en.wikipedia.org/wiki/Panic_Room"
+        ], 
+        [
+          "Alexander", 
+          "https://en.wikipedia.org/wiki/Alexander_(2004_film)"
+        ], 
+        [
+          "Lord of War", 
+          "https://en.wikipedia.org/wiki/Lord_of_War"
+        ], 
+        [
+          "Lonely Hearts", 
+          "https://en.wikipedia.org/wiki/Lonely_Hearts_(2006_film)"
+        ], 
+        [
+          "Chapter 27", 
+          "https://en.wikipedia.org/wiki/Chapter_27"
+        ], 
+        [
+          "Mr. Nobody", 
+          "https://en.wikipedia.org/wiki/Mr._Nobody_(film)"
+        ], 
+        [
+          "Artifact", 
+          "https://en.wikipedia.org/wiki/Artifact_(film)"
+        ], 
+        [
+          "Dallas Buyers Club", 
+          "https://en.wikipedia.org/wiki/Dallas_Buyers_Club"
+        ], 
+        [
+          "Suicide Squad", 
+          "https://en.wikipedia.org/wiki/Suicide_Squad_(film)"
+        ], 
+        [
+          "Blade Runner 2049", 
+          "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+        ], 
+        [
+          "The Outsider", 
+          "https://en.wikipedia.org/wiki/The_Outsider_(2018_film)"
+        ]
+      ], 
+      "name": "Jared Leto"
+    }, 
+    {
+      "age": 46, 
+      "link": "https://en.wikipedia.org/wiki/Josh_Lucas", 
+      "movies": [], 
+      "name": "Josh Lucas"
+    }, 
+    {
+      "age": 47, 
+      "link": "https://en.wikipedia.org/wiki/Samantha_Mathis", 
+      "movies": [], 
+      "name": "Samantha Mathis"
+    }, 
+    {
+      "age": 47, 
+      "link": "https://en.wikipedia.org/wiki/Matt_Ross_(actor)", 
+      "movies": [], 
+      "name": "Matt Ross"
+    }, 
+    {
+      "age": 55, 
+      "link": "https://en.wikipedia.org/wiki/Bill_Sage", 
+      "movies": [
+        [
+          "Simple Men", 
+          "https://en.wikipedia.org/wiki/Simple_Men"
+        ], 
+        [
+          "Flirt", 
+          "https://en.wikipedia.org/wiki/Flirt_(1995_film)"
+        ], 
+        [
+          "The Perez Family", 
+          "https://en.wikipedia.org/wiki/The_Perez_Family"
+        ], 
+        [
+          "I Shot Andy Warhol", 
+          "https://en.wikipedia.org/wiki/I_Shot_Andy_Warhol"
+        ], 
+        [
+          "High Art", 
+          "https://en.wikipedia.org/wiki/High_Art"
+        ], 
+        [
+          "Sex and The City", 
+          "https://en.wikipedia.org/wiki/Sex_and_The_City"
+        ], 
+        [
+          "Somewhere in the City", 
+          "https://en.wikipedia.org/wiki/Somewhere_in_the_City"
+        ], 
+        [
+          "The Insider", 
+          "https://en.wikipedia.org/wiki/The_Insider_(film)"
+        ], 
+        [
+          "Boiler Room", 
+          "https://en.wikipedia.org/wiki/Boiler_Room_(film)"
+        ], 
+        [
+          "American Psycho", 
+          "https://en.wikipedia.org/wiki/American_Psycho"
+        ], 
+        [
+          "Glitter", 
+          "https://en.wikipedia.org/wiki/Glitter_(film)"
+        ], 
+        [
+          "No Such Thing", 
+          "https://en.wikipedia.org/wiki/No_Such_Thing_(film)"
+        ], 
+        [
+          "Evenhand", 
+          "https://en.wikipedia.org/w/index.php?title=Evenhand&action=edit&redlink=1"
+        ], 
+        [
+          "Mysterious Skin", 
+          "https://en.wikipedia.org/wiki/Mysterious_Skin"
+        ], 
+        [
+          "The Girl from Monday", 
+          "https://en.wikipedia.org/wiki/The_Girl_from_Monday"
+        ], 
+        [
+          "The Handyman", 
+          "https://en.wikipedia.org/w/index.php?title=The_Handyman_(2006_film)&action=edit&redlink=1"
+        ], 
+        [
+          "Heavens Fall", 
+          "https://en.wikipedia.org/wiki/Heavens_Fall"
+        ], 
+        [
+          "Fast Company", 
+          "https://en.wikipedia.org/w/index.php?title=Fast_Company_(2007_film)&action=edit&redlink=1"
+        ], 
+        [
+          "Tennessee", 
+          "https://en.wikipedia.org/wiki/Tennessee_(film)"
+        ], 
+        [
+          "Precious", 
+          "https://en.wikipedia.org/wiki/Precious_(film)"
+        ], 
+        [
+          "The Scientist", 
+          "https://en.wikipedia.org/w/index.php?title=The_Scientist_(film)&action=edit&redlink=1"
+        ], 
+        [
+          "Off Season", 
+          "https://en.wikipedia.org/w/index.php?title=Off_Season_(short_film)&action=edit&redlink=1"
+        ], 
+        [
+          "Boy Wonder", 
+          "https://en.wikipedia.org/wiki/Boy_Wonder_(film)"
+        ], 
+        [
+          "Nurse Jackie", 
+          "https://en.wikipedia.org/wiki/Nurse_Jackie"
+        ], 
+        [
+          "Boardwalk Empire", 
+          "https://en.wikipedia.org/wiki/Boardwalk_Empire"
+        ], 
+        [
+          "Electrick Children", 
+          "https://en.wikipedia.org/wiki/Electrick_Children"
+        ], 
+        [
+          "Person of Interest", 
+          "https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)"
+        ], 
+        [
+          "Surviving Family", 
+          "https://en.wikipedia.org/wiki/Surviving_Family"
+        ], 
+        [
+          "We Are What We Are", 
+          "https://en.wikipedia.org/wiki/We_Are_What_We_Are_(2013_film)"
+        ], 
+        [
+          "Every Secret Thing", 
+          "https://en.wikipedia.org/wiki/Every_Secret_Thing_(film)"
+        ], 
+        [
+          "The Taking of Ezra Bodine", 
+          "https://en.wikipedia.org/w/index.php?title=The_Taking_of_Ezra_Bodine_(2014_film)&action=edit&redlink=1"
+        ], 
+        [
+          "The Boy", 
+          "https://en.wikipedia.org/wiki/The_Boy_(2015_film)"
+        ], 
+        [
+          "Grass Stains", 
+          "https://en.wikipedia.org/wiki/Grass_Stains"
+        ], 
+        [
+          "Hap and Leonard", 
+          "https://en.wikipedia.org/wiki/Hap_and_Leonard_(TV_series)"
+        ], 
+        [
+          "Fender Bender", 
+          "https://en.wikipedia.org/wiki/Fender_Bender_(film)"
+        ]
+      ], 
+      "name": "Bill Sage"
+    }, 
+    {
+      "age": 0, 
+      "link": "https://en.wikipedia.org/wiki/Cara_Seymour", 
+      "movies": [], 
+      "name": "Cara Seymour"
+    }, 
+    {
+      "age": 46, 
+      "link": "https://en.wikipedia.org/wiki/Justin_Theroux", 
+      "movies": [], 
+      "name": "Justin Theroux"
+    }, 
+    {
+      "age": 41, 
+      "link": "https://en.wikipedia.org/wiki/Reese_Witherspoon", 
+      "movies": [], 
+      "name": "Reese Witherspoon"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "PersonA": {
+      "json_class": "Actor",
+      "name": "PersonA",
+      "age": 61,
+      "total_gross": 562709189,
+      "movies": [
+        "Movie1",
+        "Movie2",
+        "Movie3"
+      ]
+    },
+    "PersonB": {
+      "json_class": "Actor",
+      "name": "PersonB",
+      "age": 76,
+      "total_gross": 515893034,
+      "movies": [
+        "Movie2",
+        "Movie4"
+      ]
+    },
+    "PersonC": {
+      "json_class": "Actor",
+      "name": "PersonC",
+      "age": 87,
+      "total_gross": 6269000,
+      "movies": [
+        "Movie2",
+        "Movie3"
+      ]
+    }
+  },
+  {
+    "Movie1": {
+      "json_class": "Movie",
+      "name": "Movie1",
+      "wiki_page": "https://en.wikipedia.org/wiki/Movie1",
+      "box_office": 1000000,
+      "year": 1980,
+      "actors": [
+        "PersonA"
+      ]
+    },
+    "Movie2": {
+      "json_class": "Movie",
+      "name": "Movie2",
+      "wiki_page": "https://en.wikipedia.org/wiki/Movie2",
+      "box_office": 53977250,
+      "year": 1982,
+      "actors": [
+        "PersonA",
+        "PersonB",
+        "PersonC"
+      ]
+    },
+    "Movie3": {
+      "json_class": "Movie",
+      "name": "Movie3",
+      "wiki_page": "https://en.wikipedia.org/wiki/Movie3",
+      "box_office": 39,
+      "year": 1987,
+      "actors": [
+        "PersonA",
+        "PersonC"
+      ]
+    },
+    "Movie4": {
+      "json_class": "Movie",
+      "name": "Movie4",
+      "wiki_page": "https://en.wikipedia.org/wiki/Movie4",
+      "box_office": 4594452,
+      "year": 1988,
+      "actors": [
+        "PersonB"
+      ]
+    }
+  }
+]
